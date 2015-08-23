@@ -1,7 +1,7 @@
 {
-  "name": "textwrapper",
+  "name": "JavascriptClientAppTemplate",
   "version": "0.0.1",
-  "description": "Text Wrapper Kata",
+  "description": "Template project to use for building client apps. Configured with gulp to bundle source using browserify/watchify, run tests using Jasmine and lint with eslint.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -27,16 +27,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greyepoxy/TextWrapper.git"
+    "url": "git+https://github.com/greyepoxy/JavascriptClientAppTemplate.git"
   },
   "keywords": [
     "Kata",
-    "TextWrapper"
+    "Javascript",
+    "Client",
+    "App",
+    "Template"
   ],
   "author": "greyepoxy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/greyepoxy/TextWrapper/issues"
+    "url": "https://github.com/greyepoxy/JavascriptClientAppTemplate/issues"
   },
-  "homepage": "https://github.com/greyepoxy/TextWrapper#readme"
+  "homepage": "https://github.com/greyepoxy/JavascriptClientAppTemplate#readme"
 }
